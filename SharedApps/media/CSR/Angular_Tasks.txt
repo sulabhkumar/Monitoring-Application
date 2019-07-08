@@ -1,0 +1,12 @@
+Attribute Directives:
+-----------------------------------------------------------------
+1. Create an attribute directive to highlight a <p> element color.
+2. Create mouseenter and mouseleave events for highlight.
+3. Pass color from @Input element and try different syntax for it.
+4. Apply to directive and input property at the same time, also try input alias.
+5. Apply default color if someone forgets to set input property.
+6. Write harness to try it using radiot button.
+7. Bind more than one property for ex default color.
+
+
+

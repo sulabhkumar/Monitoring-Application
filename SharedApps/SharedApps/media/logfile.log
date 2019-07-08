@@ -1,0 +1,33 @@
+[22/May/2019 10:37:43] DEBUG [django.db.backends.schema:124] ALTER TABLE `SharedApps_Application_certificatedb` ADD COLUMN `bytes` longblob NOT NULL; (params [])
+[22/May/2019 10:42:53] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[22/May/2019 10:42:53] DEBUG [SharedApps_Application.views:398] Successfully save Certificate
+[22/May/2019 10:43:36] DEBUG [SharedApps_Application.views:436] Successfully Delete Certificate
+[22/May/2019 11:00:53] DEBUG [SharedApps_Application.views:492] Successfully create Certificate
+[22/May/2019 11:00:53] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/list/create
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 497, in certificate_create
+    return save_form(request,Applicationname,environmenttype,form,'certificate_create.html')
+UnboundLocalError: local variable 'Applicationname' referenced before assignment
+[22/May/2019 11:04:18] DEBUG [SharedApps_Application.views:498] Successfully create Certificate
+[22/May/2019 11:04:18] DEBUG [SharedApps_Application.views:478] Successfully save Certificate
+[22/May/2019 11:04:18] DEBUG [SharedApps_Application.views:1063] ['testdb', 'root', 'root', 'localhost']
+[22/May/2019 11:05:40] DEBUG [SharedApps_Application.views:533] Successfully Delete Certificate
+[22/May/2019 11:06:31] DEBUG [SharedApps_Application.views:516] Successfully Update Certificate
+[22/May/2019 11:06:31] DEBUG [SharedApps_Application.views:478] Successfully save Certificate
+[22/May/2019 11:06:31] DEBUG [SharedApps_Application.views:1071] ['testdb', 'root', 'root', 'localhost']
+[22/May/2019 11:07:00] WARNING [django.request:228] Not Found: /SharedApps_Application/list/qwee
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:1071] ['testdb', 'root', 'root', 'localhost']
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:48] (0, None)
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:52] (0, None)
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:56] (0, None)
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:60] (0, None)
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:70] [(0,)]
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:73] [(0,)]
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:76] [(0,)]
+[22/May/2019 11:10:01] DEBUG [SharedApps_Application.views:86] [('Black Duck HUB', datetime.date(2019, 5, 30)), ('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16))]

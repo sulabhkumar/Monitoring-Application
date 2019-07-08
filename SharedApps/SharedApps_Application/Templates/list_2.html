@@ -1,0 +1,19 @@
+{% for certificate in certificatedata %}
+<tr>
+  
+  <td>{{ certificate.application  }}</td>
+  <td>{{ certificate.get_environment_type_display }}</td>
+  <td>{{ certificate.startdate }}</td>
+  <td>{{ certificate.expiredate }}</td>
+  <td><a  class="  glyphicon glyphicon-cloud-download" style="font-size: 20px" href="{% url 'download' pk=certificate.pk %}" download></a>
+   <span class="mousechange"><a class=" glyphicon glyphicon-pencil show-form-update"  style="font-size: 20px" data-url="{% url 'certificate_update'  certificate.id %}">
+  </a></span>
+   <span class="mousechange"><a class="  glyphicon glyphicon-trash show-form-delete"  style="font-size: 20px" data-url="{% url 'certificate_delete'  certificate.id %}">
+  </a></span>
+  </td>
+</tr>
+{% empty %}
+<tr>
+  <td colspan="7" class="text-center bg-warning">No certificate</td>
+</tr>
+{% endfor %}

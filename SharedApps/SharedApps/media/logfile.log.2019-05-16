@@ -1,0 +1,471 @@
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:01:38] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:11:00] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:11:00] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:11:02] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:13:05] WARNING [django.request:228] Not Found: /SharedApps_Application/7ui/
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:13:09] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:18:06] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:18:06] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:18:06] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:18:16] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:43:47] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:43:54] WARNING [django.request:228] Not Found: /favicon.ico
+[16/May/2019 08:43:57] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:43:57] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:43:57] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:44:09] WARNING [django.request:228] Not Found: /favicon.ico
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:44:10] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:44:17] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:44:17] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:44:17] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:44:27] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:44:32] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:44:32] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:44:32] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:44:52] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:44:56] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:44:56] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:44:56] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:45:19] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:45:36] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:45:36] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:45:36] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:45:42] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:46:05] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:46:05] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:46:05] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:46:10] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 08:46:34] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 08:47:05] DEBUG [SharedApps_Application.views:535] Error:Please select Only CSVfile
+[16/May/2019 08:47:30] DEBUG [SharedApps_Application.views:535] Error:Please select Only CSVfile
+[16/May/2019 08:49:24] DEBUG [SharedApps_Application.views:544] File Upload Successfully
+[16/May/2019 08:49:24] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:49:24] ERROR [SharedApps_Application.views:696] 1261 (01000): Row 1 doesn't contain data for all columns
+[16/May/2019 08:49:49] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:49:49] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:50:43] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:50:44] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:50:50] WARNING [django.request:228] Not Found: /favicon.ico
+[16/May/2019 08:51:11] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:51:11] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:51:30] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:51:30] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:51:44] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:51:45] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:51:57] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:51:57] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:52:07] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:52:07] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:52:17] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:52:17] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:52:29] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:52:29] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:52:36] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:52:36] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:52:43] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:52:43] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:52:57] DEBUG [SharedApps_Application.views:544] File Upload Successfully
+[16/May/2019 08:52:57] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:52:57] ERROR [SharedApps_Application.views:696] 1261 (01000): Row 1 doesn't contain data for all columns
+[16/May/2019 08:53:07] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:53:07] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:53:07] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:54:01] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:54:01] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 08:54:16] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:54:16] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 08:54:25] DEBUG [SharedApps_Application.views:253] In FETCH remaingTime
+[16/May/2019 08:54:25] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 08:54:25] DEBUG [SharedApps_Application.views:312] platinum
+[16/May/2019 08:56:21] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 08:56:53] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 08:57:09] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 08:57:59] DEBUG [SharedApps_Application.views:480] Successfully Create Service Account
+[16/May/2019 08:58:10] DEBUG [SharedApps_Application.views:480] Successfully Create Service Account
+[16/May/2019 08:58:13] DEBUG [SharedApps_Application.views:480] Successfully Create Service Account
+[16/May/2019 08:58:22] DEBUG [SharedApps_Application.views:480] Successfully Create Service Account
+[16/May/2019 08:58:22] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 09:21:11] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:21:11] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 09:21:18] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:21:18] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 09:23:23] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:23:23] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 09:23:26] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:23:26] ERROR [django.request:228] Internal Server Error: /SharedApps_Application/displayLogs
+Traceback (most recent call last):
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Rawat.306498\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\SharedApps\SharedApps\SharedApps_Application\views.py", line 929, in displayLogs
+    sql1
+UnboundLocalError: local variable 'sql1' referenced before assignment
+[16/May/2019 09:23:42] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:23:42] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 09:24:24] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:24:36] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:24:36] DEBUG [SharedApps_Application.views:869] SELECT count(*) FROM LogGraph
+[16/May/2019 09:24:40] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:24:45] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:24:53] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:25:03] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 09:25:06] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 09:43:00] DEBUG [SharedApps_Application.views:77] [('JAMA', datetime.date(2019, 7, 16)), ('Confluence', datetime.date(2019, 7, 16)), ('GMS', datetime.date(2019, 7, 16))]
+[16/May/2019 09:43:08] WARNING [django.request:228] Not Found: /media/CSR/blackduckhub-uat.veritas.com_9coPN5w.csr
+[16/May/2019 09:45:52] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 09:45:52] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 09:45:59] WARNING [django.request:228] Not Found: /media/CSR/blackduckhub-uat.veritas.com_uoXFn3S.csr
+[16/May/2019 09:50:25] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 09:50:38] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 09:50:38] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 09:53:13] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 09:53:13] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 09:53:13] DEBUG [django.db.backends:111] (0.000) SHOW FULL TABLES; args=None
+[16/May/2019 09:53:13] DEBUG [django.db.backends:111] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 09:53:18] DEBUG [SharedApps_Application.views:77] [('Test', datetime.date(1995, 1, 1)), ('Black Duck HUB', datetime.date(2019, 5, 30)), ('JAMA', datetime.date(2019, 7, 16))]
+[16/May/2019 09:53:23] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 09:53:23] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 09:53:23] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 09:53:27] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 09:53:27] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 09:53:27] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:02:04] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 10:02:04] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:02:04] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:02:04] DEBUG [django.db.backends:111] (0.000) INSERT INTO `SharedApps_Application_certificatedb` (`Application`, `startdate`, `expiredate`, `environment_type`, `File`) VALUES ('Test123', '1995-01-01', '1995-01-01', 4, 'CSR/aadhaar-correction-form_Ell0Egl.pdf'); args=['Test123', '1995-01-01', '1995-01-01', 4, 'CSR/aadhaar-correction-form_Ell0Egl.pdf']
+[16/May/2019 10:02:04] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:02:04] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 10:02:05] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:02:05] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:03:10] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:03:10] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 62; args=(62,)
+[16/May/2019 10:03:20] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:03:20] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 62; args=(62,)
+[16/May/2019 10:03:20] DEBUG [SharedApps_Application.views:421] Successfully Update Certificate
+[16/May/2019 10:03:20] DEBUG [django.db.backends:111] (0.000) UPDATE `SharedApps_Application_certificatedb` SET `Application` = 'Test123', `startdate` = '1995-01-01', `expiredate` = '1995-01-01', `environment_type` = 4, `File` = 'CSR/BitBucketUAT_Setup_Status.xlsx' WHERE `SharedApps_Application_certificatedb`.`id` = 62; args=('Test123', '1995-01-01', '1995-01-01', 4, 'CSR/BitBucketUAT_Setup_Status.xlsx', 62)
+[16/May/2019 10:03:20] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:03:20] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 10:03:20] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:03:20] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:03:35] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:03:35] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 62; args=(62,)
+[16/May/2019 10:04:10] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:04:10] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:05:10] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:05:10] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb` WHERE `SharedApps_Application_servicedb`.`id` = 8; args=(8,)
+[16/May/2019 10:05:12] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:05:12] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb` WHERE `SharedApps_Application_servicedb`.`id` = 8; args=(8,)
+[16/May/2019 10:05:12] DEBUG [django.db.backends:111] (0.000) DELETE FROM `SharedApps_Application_servicedb` WHERE `SharedApps_Application_servicedb`.`id` IN (8); args=(8,)
+[16/May/2019 10:05:12] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:05:12] DEBUG [SharedApps_Application.views:504] Successfully Delete Service Account
+[16/May/2019 10:05:13] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:05:13] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:05:17] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:05:17] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:06:46] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:06:46] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:06:46] DEBUG [django.db.backends:111] (0.000) SHOW FULL TABLES; args=None
+[16/May/2019 10:06:46] DEBUG [django.db.backends:111] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:974] ['testdb', 'root', 'root', 'localhost']
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:39] (1, '4 - Low')
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:43] (0, None)
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:47] (0, None)
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:51] (0, None)
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:61] [(0,)]
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:64] [(0,)]
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:67] [(10,)]
+[16/May/2019 10:06:54] DEBUG [SharedApps_Application.views:77] [('Test', datetime.date(1995, 1, 1)), ('Test123', datetime.date(1995, 1, 1)), ('Black Duck HUB', datetime.date(2019, 5, 30))]
+[16/May/2019 10:06:56] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:06:56] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:06:56] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:07:11] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:07:11] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:07:16] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:07:16] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:08:42] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:08:42] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:08:42] DEBUG [django.db.backends:111] (0.000) SHOW FULL TABLES; args=None
+[16/May/2019 10:08:42] DEBUG [django.db.backends:111] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[16/May/2019 10:08:45] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:08:45] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:08:45] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:08:50] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:08:50] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:08:54] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:08:54] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:09:14] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:09:14] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb` WHERE `SharedApps_Application_servicedb`.`id` = 2; args=(2,)
+[16/May/2019 10:11:12] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:11:12] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:12:00] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:00] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:12:41] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:41] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 61; args=(61,)
+[16/May/2019 10:12:43] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:43] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 61; args=(61,)
+[16/May/2019 10:12:43] DEBUG [django.db.backends:111] (0.000) DELETE FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` IN (61); args=(61,)
+[16/May/2019 10:12:43] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:12:43] DEBUG [SharedApps_Application.views:436] Successfully Delete Certificate
+[16/May/2019 10:12:43] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:43] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:12:48] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:48] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 62; args=(62,)
+[16/May/2019 10:12:49] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:49] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 62; args=(62,)
+[16/May/2019 10:12:49] DEBUG [django.db.backends:111] (0.000) DELETE FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` IN (62); args=(62,)
+[16/May/2019 10:12:49] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:12:49] DEBUG [SharedApps_Application.views:436] Successfully Delete Certificate
+[16/May/2019 10:12:49] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:49] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:12:55] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:12:55] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:13:07] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:07] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:13:16] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:16] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:13:37] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:37] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:13:41] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:41] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:13:41] DEBUG [SharedApps_Application.views:421] Successfully Update Certificate
+[16/May/2019 10:13:41] DEBUG [django.db.backends:111] (0.000) UPDATE `SharedApps_Application_certificatedb` SET `Application` = 'Black Duck HUB', `startdate` = '2018-05-10', `expiredate` = '2019-05-30', `environment_type` = 2, `File` = 'CSR/blackduckhub-uat.veritas.com_uoXFn3S.csr' WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=('Black Duck HUB', '2018-05-10', '2019-05-30', 2, 'CSR/blackduckhub-uat.veritas.com_uoXFn3S.csr', 60)
+[16/May/2019 10:13:41] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:13:41] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 10:13:42] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:42] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:13:47] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:47] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:13:52] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:52] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb` WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=(60,)
+[16/May/2019 10:13:52] DEBUG [SharedApps_Application.views:421] Successfully Update Certificate
+[16/May/2019 10:13:52] DEBUG [django.db.backends:111] (0.000) UPDATE `SharedApps_Application_certificatedb` SET `Application` = 'Black Duck HUB', `startdate` = '2018-05-10', `expiredate` = '2019-05-30', `environment_type` = 3, `File` = 'CSR/blackduckhub-uat.veritas.com_uoXFn3S.csr' WHERE `SharedApps_Application_certificatedb`.`id` = 60; args=('Black Duck HUB', '2018-05-10', '2019-05-30', 3, 'CSR/blackduckhub-uat.veritas.com_uoXFn3S.csr', 60)
+[16/May/2019 10:13:52] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_servicedb`.`id`, `SharedApps_Application_servicedb`.`Application`, `SharedApps_Application_servicedb`.`startdate`, `SharedApps_Application_servicedb`.`expiredate`, `SharedApps_Application_servicedb`.`environment_type` FROM `SharedApps_Application_servicedb`; args=()
+[16/May/2019 10:13:52] DEBUG [SharedApps_Application.views:468] Successfully save Service Account
+[16/May/2019 10:13:52] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:13:52] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:58:18] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:58:18] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:58:18] DEBUG [django.db.backends:111] (0.000) SHOW FULL TABLES; args=None
+[16/May/2019 10:58:18] DEBUG [django.db.backends:111] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[16/May/2019 10:58:27] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:58:27] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:58:27] DEBUG [django.db.backends:111] (0.000) SHOW FULL TABLES; args=None
+[16/May/2019 10:58:27] DEBUG [django.db.backends:111] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[16/May/2019 10:58:38] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:58:38] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:58:38] DEBUG [django.db.backends:111] (0.000) SHOW FULL TABLES; args=None
+[16/May/2019 10:58:38] DEBUG [django.db.backends:111] (0.000) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+[16/May/2019 10:58:45] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 10:58:45] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 10:58:45] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 10:58:58] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 11:04:09] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 11:04:09] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 11:04:09] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
+[16/May/2019 11:04:31] DEBUG [SharedApps_Application.views:411] Successfully create Certificate
+[16/May/2019 12:00:46] DEBUG [django.db.backends:111] (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+[16/May/2019 12:00:46] DEBUG [django.db.backends:111] (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+[16/May/2019 12:00:46] DEBUG [django.db.backends:111] (0.000) SELECT `SharedApps_Application_certificatedb`.`id`, `SharedApps_Application_certificatedb`.`Application`, `SharedApps_Application_certificatedb`.`startdate`, `SharedApps_Application_certificatedb`.`expiredate`, `SharedApps_Application_certificatedb`.`environment_type`, `SharedApps_Application_certificatedb`.`File` FROM `SharedApps_Application_certificatedb`; args=()
